@@ -34,49 +34,36 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p align="left">
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" alt="R" title="R"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="BigQuery / GCP" title="BigQuery / GCP"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/snowflake.png" alt="Snowflake" title="Snowflake"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" title="Git"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" alt="VS Code" title="VS Code"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" alt="Jupyter" title="Jupyter Notebook"/>
+  <br/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit.png" alt="scikit-learn" title="scikit-learn"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/seaborn.png" alt="Seaborn" title="Seaborn"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/streamlit.png" alt="Streamlit" title="Streamlit"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS"/>
+  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker"/>
 </p>
 
-**Databases & Warehouses**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-</p>
-
-**Machine Learning & AI**
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/BERTopic-FFD43B?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-3776AB?style=flat-square" />
-</p>
-
-**BI & Visualization**
+**Also using (not in icon set above):**
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel%20(VBA%2FPower%20Query)-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
-
-**Data Engineering & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/ETL%2FELT-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP%20%2F%20LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
