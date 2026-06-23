@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Atharva Bakde</h1>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Machine+Learning;Always+learning+something+new" alt="Typing SVG" />
   </a>
@@ -16,10 +20,15 @@
 ---
 
 ### 🚀 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="280" align="right" />
+
 - 🔭 Currently building end-to-end data pipelines and ML projects from real personal/behavioral data
 - 🌱 Learning: advanced NLP, LLM integration, and prompt engineering
 - 📊 I like turning messy raw data into decision-ready insight, not just charts
 - 💬 Ask me about: feature engineering, clustering, or anything pandas
+
+<br clear="right"/>
 
 ---
 
