@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="280" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280" align="right" />
 
 I help companies stop guessing and start predicting — by building ML models, data pipelines, and analytics systems that turn complex, messy data into decisions that move revenue and reduce risk.
 
