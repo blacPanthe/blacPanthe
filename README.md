@@ -50,22 +50,26 @@ If you're building a data team that needs someone who owns problems end to end �
 **Languages & Web**
 <p align="left">
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" alt="R" title="R"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="SQL / PostgreSQL" title="SQL / PostgreSQL"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML" title="HTML"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS" title="CSS"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" title="React"/>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+</p>
 
 **Machine Learning & AI**
 <p align="left">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit.png" alt="scikit-learn" title="scikit-learn"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/seaborn.png" alt="Seaborn" title="Seaborn"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
 </p>
 
 *Algorithms & techniques:* Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Ensemble (Bagging/Boosting) · AdaBoost · Gradient Boost · XGBoost · K-Means · Hierarchical & DBSCAN Clustering · Silhouette Analysis · SVM · PCA · NLP (LDA, BERTopic) · Large Language Models
@@ -74,7 +78,6 @@ If you're building a data team that needs someone who owns problems end to end �
 <p align="left">
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="GCP / BigQuery" title="GCP / BigQuery"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/snowflake.png" alt="Snowflake" title="Snowflake"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" title="Terraform"/>
@@ -82,11 +85,12 @@ If you're building a data team that needs someone who owns problems end to end �
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" title="Git"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gitlab.png" alt="GitLab / GitLab CI/CD" title="GitLab / GitLab CI/CD"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" alt="VS Code" title="VS Code"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="VS Code" title="VS Code"/>
   <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" alt="Jupyter" title="Jupyter Notebook"/>
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>
