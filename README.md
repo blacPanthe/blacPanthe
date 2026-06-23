@@ -47,40 +47,74 @@ If you're building a data team that needs someone who owns problems end to end �
 
 ### 🛠️ Tech Stack
 
+**Languages & Web**
 <p align="left">
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" alt="R" title="R"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="BigQuery / GCP" title="BigQuery / GCP"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/snowflake.png" alt="Snowflake" title="Snowflake"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" title="Git"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" alt="VS Code" title="VS Code"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" alt="Jupyter" title="Jupyter Notebook"/>
-  <br/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit.png" alt="scikit-learn" title="scikit-learn"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/seaborn.png" alt="Seaborn" title="Seaborn"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/streamlit.png" alt="Streamlit" title="Streamlit"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
-  <img width="55" height="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" title="Jira"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" alt="R" title="R"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="SQL / PostgreSQL" title="SQL / PostgreSQL"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML" title="HTML"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS" title="CSS"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" alt="React" title="React"/>
 </p>
 
-**Also using (not in icon set above):**
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-117ACA?style=flat-square" />
+**Machine Learning & AI**
+<p align="left">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/scikit.png" alt="scikit-learn" title="scikit-learn"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/numpy.png" alt="NumPy" title="NumPy"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/seaborn.png" alt="Seaborn" title="Seaborn"/>
+</p>
+
+*Algorithms & techniques:* Linear/Logistic Regression · KNN · Naive Bayes · Decision Trees · Ensemble (Bagging/Boosting) · AdaBoost · Gradient Boost · XGBoost · K-Means · Hierarchical & DBSCAN Clustering · Silhouette Analysis · SVM · PCA · NLP (LDA, BERTopic) · Large Language Models
+
+**Cloud, DevOps & Infrastructure**
+<p align="left">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" alt="AWS" title="AWS"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" alt="GCP / BigQuery" title="GCP / BigQuery"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/snowflake.png" alt="Snowflake" title="Snowflake"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" alt="Terraform" title="Terraform"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ansible.png" alt="Ansible" title="Ansible"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" title="Git"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gitlab.png" alt="GitLab / GitLab CI/CD" title="GitLab / GitLab CI/CD"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" alt="VS Code" title="VS Code"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" alt="Jupyter" title="Jupyter Notebook"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+**BI, Analytics & Visualization**
+<p align="left">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" alt="Grafana" title="Grafana"/>
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/streamlit.png" alt="Streamlit" title="Streamlit"/>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
   <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
   <img src="https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logo=alteryx&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel%20(VBA%2FPower%20Query)-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/BERTopic%20%2F%20LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+**Project & Workflow Tools**
+<p align="left">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jira.png" alt="Jira" title="Jira"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office%20Suite-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ---
