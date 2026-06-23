@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Atharva Bakde</h1>
-<h3 align="center">Aspiring Data Scientist — turning raw data into decisions</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Machine+Learning;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-bakde-umass/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://blacpanthe.github.io/AtharvabakdePortfolio2.0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:atharvabakde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=blacPanthe&style=for-the-badge&color=2563EB" alt="profile views" />
 </p>
 
 ---
@@ -86,6 +92,21 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=blacPanthe&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blacPanthe/blacPanthe/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 📰 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
