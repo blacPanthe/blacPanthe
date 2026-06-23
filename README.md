@@ -45,12 +45,6 @@ If you're building a data team that needs someone who owns problems end to end �
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/static/demo.gif" width="700" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Web**
