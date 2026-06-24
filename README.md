@@ -22,27 +22,38 @@
 
 ### 🚀 About Me
 
+<table>
+<tr>
+<td>
+
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280" align="right" />
 
-I help companies stop guessing and start predicting — by building ML models, data pipelines, and analytics systems that turn complex, messy data into decisions that move revenue and reduce risk.
+<p align="justify">I help companies stop guessing and start predicting — by building ML models, data pipelines, and analytics systems that turn complex, messy data into decisions that move revenue and reduce risk.</p>
 
-I got into data science because the gap between *having* data and *using it well* is where most businesses lose money. That gap is where I work.
+<p align="justify">I got into data science because the gap between <i>having</i> data and <i>using it well</i> is where most businesses lose money. That gap is where I work.</p>
 
-Over 2+ years spanning business analysis, data engineering, and machine learning, I've built solutions across the full stack — from ETL pipelines and feature engineering to deployed predictive models and executive dashboards. My work has been recognized in **3 peer-reviewed publications**.
+<p align="justify">Over 2+ years spanning business analysis, data engineering, and machine learning, I've built solutions across the full stack — from ETL pipelines and feature engineering to deployed predictive models and executive dashboards. My work has been recognized in <b>3 peer-reviewed publications</b>.</p>
 
-**What I build:**
-- 🔹 **Predictive Models** — churn prediction, health risk classification (96.1% accuracy, AUC 0.9956), demand forecasting using Scikit-learn, TensorFlow, XGBoost
-- 🔹 **NLP & GenAI Solutions** — topic modeling across 541K+ reviews using BERTopic, sentiment analysis, LLM integration
-- 🔹 **Data Engineering** — automated ETL pipelines with Python, SQL, Snowflake, BigQuery
-- 🔹 **BI Dashboards** — Power BI, Tableau, Looker Studio tied directly to KPIs stakeholders actually care about
+<p><b>What I build:</b></p>
 
-**3 publications · 4.0 GPA · Bilingual (English/Spanish) · F-1 STEM OPT through May 2029**
+<p align="justify">
+🔹 <b>Predictive Models</b> — churn prediction, health risk classification (96.1% accuracy, AUC 0.9956), demand forecasting using Scikit-learn, TensorFlow, XGBoost<br/>
+🔹 <b>NLP & GenAI Solutions</b> — topic modeling across 541K+ reviews using BERTopic, sentiment analysis, LLM integration<br/>
+🔹 <b>Data Engineering</b> — automated ETL pipelines with Python, SQL, Snowflake, BigQuery<br/>
+🔹 <b>BI Dashboards</b> — Power BI, Tableau, Looker Studio tied directly to KPIs stakeholders actually care about
+</p>
 
-Open to **Data Scientist · ML Engineer · Data Analyst · Business Analyst** roles — hybrid or remote.
+<p align="justify"><b>3 publications · 4.0 GPA · Bilingual (English/Spanish) · F-1 STEM OPT through May 2029</b></p>
 
-If you're building a data team that needs someone who owns problems end to end — let's talk.
+<p align="justify">Open to <b>Data Scientist · ML Engineer · Data Analyst · Business Analyst</b> roles — hybrid or remote.</p>
+
+<p align="justify">If you're building a data team that needs someone who owns problems end to end — let's talk.</p>
 
 <br clear="right"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
