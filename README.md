@@ -49,7 +49,8 @@
 
 </td>
 <td width="30%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220" /><br/>
+<img src="./assets/nimbus.gif" width="220" />
 </td>
 </tr>
 </table>
