@@ -24,9 +24,7 @@
 
 <table>
 <tr>
-<td>
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="280" align="right" />
+<td width="70%" valign="top">
 
 <p align="justify">I help companies stop guessing and start predicting — by building ML models, data pipelines, and analytics systems that turn complex, messy data into decisions that move revenue and reduce risk.</p>
 
@@ -36,12 +34,12 @@
 
 <p><b>What I build:</b></p>
 
-<p align="justify">
-🔹 <b>Predictive Models</b> — churn prediction, health risk classification (96.1% accuracy, AUC 0.9956), demand forecasting using Scikit-learn, TensorFlow, XGBoost<br/>
-🔹 <b>NLP & GenAI Solutions</b> — topic modeling across 541K+ reviews using BERTopic, sentiment analysis, LLM integration<br/>
-🔹 <b>Data Engineering</b> — automated ETL pipelines with Python, SQL, Snowflake, BigQuery<br/>
-🔹 <b>BI Dashboards</b> — Power BI, Tableau, Looker Studio tied directly to KPIs stakeholders actually care about
-</p>
+<ul>
+<li><b>Predictive Models</b> — churn prediction, health risk classification (96.1% accuracy, AUC 0.9956), demand forecasting using Scikit-learn, TensorFlow, XGBoost</li>
+<li><b>NLP & GenAI Solutions</b> — topic modeling across 541K+ reviews using BERTopic, sentiment analysis, LLM integration</li>
+<li><b>Data Engineering</b> — automated ETL pipelines with Python, SQL, Snowflake, BigQuery</li>
+<li><b>BI Dashboards</b> — Power BI, Tableau, Looker Studio tied directly to KPIs stakeholders actually care about</li>
+</ul>
 
 <p align="justify"><b>3 publications · 4.0 GPA · Bilingual (English/Spanish) · F-1 STEM OPT through May 2029</b></p>
 
@@ -49,8 +47,9 @@
 
 <p align="justify">If you're building a data team that needs someone who owns problems end to end — let's talk.</p>
 
-<br clear="right"/>
-
+</td>
+<td width="30%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="220" />
 </td>
 </tr>
 </table>
