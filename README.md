@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/atharva-bakde-umass/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://blacpanthe.github.io/AtharvabakdePortfolio2.0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1z-sOXWCWe5jfj6j8c4xojCfQeY3F2Brr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="mailto:atharvabakde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=blacPanthe&style=for-the-badge&color=2563EB" alt="profile views" />
 </p>
