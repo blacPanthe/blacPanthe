@@ -158,9 +158,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacPanthe&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Temporarily disabled: the shared github-profile-trophy.vercel.app instance is returning 402
+     (upstream billing/usage cap hit). Re-enable once it recovers, or point at a self-hosted deploy.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=blacPanthe&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+-->
 
 ---
 
