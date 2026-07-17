@@ -146,10 +146,13 @@
 
 ### 📊 GitHub Stats
 
+<!-- Temporarily disabled: the shared github-readme-stats.vercel.app instance is returning 503
+     (overloaded/rate-limited). Re-enable once it recovers, or point at a self-hosted deploy.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=blacPanthe&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacPanthe&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacPanthe&theme=tokyonight&hide_border=true" />
