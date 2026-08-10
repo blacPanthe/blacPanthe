@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Marketing+Data+Analyst+%7C+3%2B+Years+Experience;GA4+%C2%B7+Salesforce+CRM+%C2%B7+Power+BI+%C2%B7+Azure+Data+Factory;Turning+campaign+data+into+decisions+that+drive+growth;120%2B+campaigns+analyzed+%C2%B7+LPL+Financial" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Marketing+Data+Analyst+%7C+3%2B+Years+Experience;GA4+%C2%B7+Salesforce+CRM+%C2%B7+Power+BI+%C2%B7+Azure+Data+Factory;Turning+campaign+data+into+decisions+that+drive+growth;Real+Fashion+Index+%C2%B7+UMass+Amherst+2026" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,11 +26,11 @@
 <tr>
 <td width="70%" valign="top">
 
-<p align="justify">Marketing Data Analyst with 3+ years of experience transforming marketing and customer data into actionable business insights. Currently at <b>LPL Financial</b> building enterprise-scale dashboards and attribution models across GA4, Salesforce CRM, Power BI, and Azure Data Factory.</p>
+<p align="justify">Marketing Data Analyst with 3+ years of experience transforming marketing and customer data into actionable business insights. Currently at <b>Real Fashion Index</b> leading the frontend rebuild of FashionIndex.com, a global B2B fashion sourcing platform serving 218,000+ subscribers across 50+ countries.</p>
 
 <p align="justify">I close the gap between <i>running campaigns</i> and <i>understanding what actually works</i> — through clean attribution, reliable reporting, and analysis that tells stakeholders exactly where to invest next.</p>
 
-<p align="justify">Across LPL Financial and Ace Infoway, I've supported 120+ campaigns, standardized attribution across Google Ads, LinkedIn Ads, email, and partner channels, and automated workflows that saved 40+ hours of manual reporting per month. My analytical work is backed by <b>3 peer-reviewed publications</b>.</p>
+<p align="justify">Across my roles, I've supported 120+ campaigns, reversed a 54% traffic decline through funnel analysis (+10x conversion), standardized attribution across paid and organic channels, and automated workflows saving 40+ hours of manual reporting per month. My analytical work is backed by <b>3 peer-reviewed publications</b>.</p>
 
 <p><b>What I do:</b></p>
 
